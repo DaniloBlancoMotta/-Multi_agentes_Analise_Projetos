@@ -1,0 +1,5 @@
+streamlit
+agency-swarm
+pydantic
+python-dotenv
+openai
