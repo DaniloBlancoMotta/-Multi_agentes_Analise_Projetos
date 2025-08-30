@@ -1,10 +1,3 @@
-.
-├── 📄 .env                  # Arquivo para variáveis de ambiente (sua chave da API)
-├── 📜 .gitignore             # Arquivos e pastas a serem ignorados pelo Git
-├── 🚀 startup.py             # Script principal da aplicação Streamlit e definição dos agentes
-├── 📋 requirements.txt       # Lista de dependências Python do projeto
-└── 📖 README.md               # Este arquivo que você está lendo 
-
 
 # 🚀 Multi-agentes para Análise de Projetos e Startups
 
@@ -101,5 +94,14 @@ Com o ambiente virtual ativado, inicie a aplicação Streamlit com o seguinte co
 
 ```bash
 streamlit run startup.py
+
+
+
+
+├── 📄 .env                  # Arquivo para variáveis de ambiente (sua chave da API)
+├── 📜 .gitignore             # Arquivos e pastas a serem ignorados pelo Git
+├── 🚀 startup.py             # Script principal da aplicação Streamlit e definição dos agentes
+├── 📋 requirements.txt       # Lista de dependências Python do projeto
+└── 📖 README.md               # Este arquivo que você está lendo 
 
 
